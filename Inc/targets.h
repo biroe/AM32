@@ -1029,7 +1029,7 @@
 
 #ifdef ARIA_RAMP_F051
 #define FILE_NAME "ARIA_RAMP_F051"
-#define FIRMWARE_NAME "Aria Slow  "
+#define FIRMWARE_NAME "LikeEarth  "
 #define DEAD_TIME 45
 #define HARDWARE_GROUP_F0_A
 #define USE_SERIAL_TELEMETRY
